@@ -38,9 +38,8 @@ I am currently pursuing studies in Computer System Technology, focusing on cyber
 ---
 
 ## Get in Touch  
-- 📧 **Email**: [tanvirrahman1339@gmail.com](mailto:tanvirrahman1339@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/Golam Tanvir Rahman](https://www.linkedin.com/in/golam-tanvir-rahman-7225a0336/)  
-- 💻 **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+- 📧 **Email**: [mail](mailto:tanvirrahman1339@gmail.com)  
+- 🔗 **LinkedIn**: [Golam Tanvir Rahman](https://www.linkedin.com/in/golam-tanvir-rahman-7225a0336/)  
 
 ---
 
