@@ -11,7 +11,7 @@ I am currently pursuing studies in Computer System Technology, focusing on cyber
 ---
 
 ## Projects  
-### 1. **CCNA Mega Lab**  
+### 1. **CCNA Mega Lab**  [link](https://github.com/tanvirrahm/CCNA-Mega-Lab) 
 **Source**: Jeremy's IT Lab  
 - Designed and configured a complex network topology with routing, switching, VLANs, and more.  
 - Applied Layer 2 and Layer 3 networking concepts in a simulated enterprise environment.
