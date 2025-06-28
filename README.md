@@ -27,14 +27,14 @@ I am currently pursuing studies in Computer System Technology, focusing on cyber
 - Built a fully functional Security Operations Center (SOC) lab.  
 - Configured monitoring tools and practiced real-world threat detection and incident response workflows.
 
-### 4. **Azure Security Lab Portfolio**  
+### 4. [**Azure Security Lab Portfolio**](https://github.com/tanvirrahm/Azure-Sentinel-Cyber-Threat-Intelligence) 
 - **VM Setup**: Created a honeypot Windows VM on Azure and enabled logging of failed login attempts.  
 - **Logging & KQL**: Set up Microsoft Sentinel and Log Analytics Workspace. Used KQL to analyze Event ID 4625 (failed login attempts).  
 - **Enrichment**: Imported `geoip-summarized.csv` to enrich IP logs with location data.  
 - **Visualization**: Created a custom Sentinel workbook with an interactive attack map.  
 📂 *GitHub Repo:* _Coming Soon_
 
-### 5. **Splunk Enterprise Deployment Project**  
+### 5. [**Splunk Enterprise Deployment Project**](https://github.com/tanvirrahm/Splunk-Enterprise-Deployment-Project) 
 - Deployed Splunk Enterprise on a controller VM and three agent VMs with Universal Forwarders.  
 - Configured `inputs.conf` and `outputs.conf` for proper data flow and log indexing.  
 - Used Splunk Web UI for log search, alerts, and dashboard visualization.  
@@ -47,9 +47,9 @@ I am currently pursuing studies in Computer System Technology, focusing on cyber
 - **Network Fundamentals**: VLANs, Routing & Switching, EtherChannel (CCNA level)  
 - **Cybersecurity**: Threat Detection, Incident Response, Security Audits  
 - **SIEM Tools**: Microsoft Sentinel, Log Analytics Workspace, Splunk  
-- **Platforms & Tools**: Cisco Packet Tracer, Wireshark, Security Onion, VirtualBox, VMware  
-- **Languages & Queries**: KQL, basic Bash/PowerShell scripting  
-- **Protocols**: TCP/IP, OSPF, EIGRP, BGP  
+- **Platforms & Tools**: Cisco Packet Tracer, Wireshark, Security Onion, VirtualBox, VMware, microsoft azure, splunk  
+- **Languages & Queries**: KQL, basic Bash/PowerShell scripting, python  
+- **Protocols**: TCP/IP, OSPF, EIGRP, BGP, HTTP, SMTP, FTP  
 
 ---
 
