@@ -31,8 +31,7 @@ I am currently pursuing studies in Computer System Technology, focusing on cyber
 - **VM Setup**: Created a honeypot Windows VM on Azure and enabled logging of failed login attempts.  
 - **Logging & KQL**: Set up Microsoft Sentinel and Log Analytics Workspace. Used KQL to analyze Event ID 4625 (failed login attempts).  
 - **Enrichment**: Imported `geoip-summarized.csv` to enrich IP logs with location data.  
-- **Visualization**: Created a custom Sentinel workbook with an interactive attack map.  
-📂 *GitHub Repo:* _Coming Soon_
+- **Visualization**: Created a custom Sentinel workbook with an interactive attack map.  _
 
 ### 5. [**Splunk Enterprise Deployment Project**](https://github.com/tanvirrahm/Splunk-Enterprise-Deployment-Project) 
 - Deployed Splunk Enterprise on a controller VM and three agent VMs with Universal Forwarders.  
